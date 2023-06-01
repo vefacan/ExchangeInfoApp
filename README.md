@@ -4,7 +4,7 @@ The Goal of the Project
 -------------
 
 <p>
-Central Bank of Turkey data has been integrated into the project with the help of Jsoup XML parser and the project is finished.. This project is the 5th assignment of Turkcell "Geleceği Yazanlar."
+Central Bank of Turkey data has been integrated into the project with the help of Jsoup XML parser and the project is finished. This project is the 5th assignment of Turkcell "Geleceği Yazanlar."
   
 | Pages in the app |
 | --------- |
