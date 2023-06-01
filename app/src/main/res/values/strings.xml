@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Döviz Kuru Öğren</string>
+    <string name="listed_name">Döviz Kuru Seç</string>
+    
+    <string-array name="dovizler">
+
+        <item>ABD DOLARI</item>
+        <item>EURO</item>
+        <item>DİNAR</item>
+        <item>STERLİN</item>
+        <item>İSVİÇRE FRANGI</item>
+        <item>İSVEÇ KRONU</item>
+        <item>KANADA DOLARI</item>
+        <item>KUVEYT DİNARI</item>
+
+    </string-array>
+
+</resources>
